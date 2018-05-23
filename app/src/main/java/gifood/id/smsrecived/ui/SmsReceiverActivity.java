@@ -1,10 +1,12 @@
-package gifood.id.smsrecived;
+package gifood.id.smsrecived.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import gifood.id.smsrecived.R;
 
 public class SmsReceiverActivity extends AppCompatActivity implements View.OnClickListener {
 
